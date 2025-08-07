@@ -34,7 +34,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Latest Version",
-          "text": "1.0.0"
+          "text": "1.5.0"
         },
         {
           "class": "DepictionTableButtonView",
@@ -49,8 +49,15 @@
       "class": "DepictionStackView",
       "views": [
         {
-            "class": "DepictionMarkdownView",
-            "markdown": "No changelog information available yet. Publish a new release to populate this page."
+          "class": "DepictionSubheaderView",
+          "title": "Version 1.5.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "okay now it works maybe..."
+        },
+        {
+          "class": "DepictionSeparatorView"
         }
       ]
     }

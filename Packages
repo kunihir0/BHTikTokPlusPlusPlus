@@ -1,0 +1,16 @@
+Package: com.kunihir0.bhtiktok++
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: kunihir0
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./debs/BHTikTok%2B%2B-1.5.0.deb
+Size: 59850
+MD5sum: af4049a53efb6322b051b9bc43022429
+SHA1: 20fb187a8a4ed6be65cf2a6da76d2af0bcb6fbee
+SHA256: 804aa37d2ca3128eeca7d2f6e5a56c7fc9de7a3b132156597c4c485434891feb
+Section: Tweaks
+Description: An awesome tweak for TikTok!
+Author: kunihir0
+Name: BHTikTok++
+
