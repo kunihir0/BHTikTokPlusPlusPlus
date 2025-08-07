@@ -1,0 +1,58 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "headerImage": "https://placehold.co/600x200/1C1C1E/FFFFFF?text=BHTikTok+++",
+  "tintColor": "#FF2D55",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "BHTikTok+++"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "The ultimate enhancement for TikTok."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Welcome to **BHTikTok+++**! This tweak unlocks the full potential of TikTok with a wide range of new features. \n\n### Key Features:\n\n* **No Ads:** Enjoy a completely ad-free experience.\n* **Download Videos:** Save any video without a watermark.\n* **Region Spoofing:** Change your region to view content from around the world.\n* **And much more!**"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "kunihir0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Latest Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Github Repo",
+          "action": "https://github.com/kunihir0/BHTikTokPlusPlusPlus",
+          "openExternal": true
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+            "class": "DepictionMarkdownView",
+            "markdown": "No changelog information available yet. Publish a new release to populate this page."
+        }
+      ]
+    }
+  ]
+}
